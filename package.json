@@ -6,7 +6,8 @@
   "scripts": {
     "start": "ts-node src/app.ts",
     "build": "tsc",
-    "serve": "node dist/app.js"
+    "serve": "node dist/app.js",
+    "test": "vitest"
   },
   "keywords": [],
   "author": "",
